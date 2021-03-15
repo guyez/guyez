@@ -28,6 +28,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 * Machine Learning
 * Computer Vision
 * Natural Language Processing
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
 
 ## Programming Languages
@@ -62,9 +63,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 📈 My GitHub Stats
 
-<a href="https://github.com/guyez/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyez&hide=html" />
-</a>
 <a href="https://github.com/guyez/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyez&count_private=true&show_icons=true&line_height=33" alt="guyez's github stats" />
 </a>
