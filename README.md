@@ -37,7 +37,28 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<br /><br /><br /><br /><br /><br />
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Simone Gayed Said'
+	current_edu = "University of Bologna"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Bologna_Italy()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		ClimbEverest()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 📈 My GitHub Stats
 
