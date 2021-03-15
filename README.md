@@ -23,11 +23,12 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 ## :computer: Technologies I Love
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
+
 * Artificial Intelligence
 * Machine Learning
 * Computer Vision
 * Natural Language Processing
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guyez&layout=compact">
 
 
