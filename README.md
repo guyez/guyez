@@ -25,30 +25,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    147 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.86% 
-🌆 Daytime    613 commits    █████████░░░░░░░░░░░░░░░░   36.93% 
-🌃 Evening    552 commits    ████████░░░░░░░░░░░░░░░░░   33.25% 
-🌙 Night      348 commits    █████░░░░░░░░░░░░░░░░░░░░   20.96%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       369 commits    █████░░░░░░░░░░░░░░░░░░░░   22.23% 
-Tuesday      276 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
-Wednesday    297 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-Thursday     167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Friday       207 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-Saturday     193 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Sunday       151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.1%
-
-```
 
 **Languages and Tools:**  
 
@@ -57,22 +33,6 @@ Sunday       151 commits    ██░░░░░░░░░░░░░░░�
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Python                   3 hrs 36 mins       ███████████████░░░░░░░░░░   60.48% 
-C++                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
-
-```
-
-
-<!--END_SECTION:waka-->
 
 📈 My GitHub Stats
 
