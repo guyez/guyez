@@ -22,8 +22,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@guyez](https://www.linkedin.com/in/simonegayedsaid/);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
-
 
 
 **Languages and Tools:**  
@@ -33,15 +31,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br /><br /><br /><br />
 
 📈 My GitHub Stats
 
