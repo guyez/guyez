@@ -41,18 +41,18 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Simone Gayed Said'
+	user = 'Simone Gayed Said'
 	current_edu = "University of Bologna"
 	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
+			'Drawing',
+			'Watching Anime',
+			'Reading Sci-Fi Novels'
+			'Being up all Night chasing that ONE BUG...'
+		  ]
+
 	def getCity():
 		return Bologna_Italy()
-	
+
 	def Ambitions():
 		LearnJapanese()
 		CreateSkyNet()
