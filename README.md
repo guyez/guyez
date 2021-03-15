@@ -81,4 +81,11 @@ Bash                     18 mins             █░░░░░░░░░░�
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=guyez&show_icons=true&theme=gotham" alt="guyez" />
+#### 📊 Some statistics
+
+<a href="https://github.com/guyez/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyez&hide=html" />
+</a>
+<a href="https://github.com/guyez/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyez&count_private=true&show_icons=true&line_height=33" alt="guyez's github stats" />
+</a>
