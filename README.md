@@ -41,3 +41,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <a href="https://github.com/guyez/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyez&count_private=true&show_icons=true&line_height=33" alt="guyez's github stats" />
 </a>
+
+If you like what I do, maybe consider buying me a coffee 🥺👉👈
+<a href="https://www.buymeacoffee.com/guyez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
