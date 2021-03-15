@@ -8,9 +8,6 @@
 <a href="https://www.facebook.com/simone.gayed/">
   <img align="left" alt="My Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/simonegayed/">
-  <img align="left" alt="My Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=guyez.guyez)
 
