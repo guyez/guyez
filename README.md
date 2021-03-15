@@ -81,8 +81,6 @@ Bash                     18 mins             █░░░░░░░░░░�
 
 📈 My GitHub Stats
 
-#### 📊 Some statistics
-
 <a href="https://github.com/guyez/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyez&hide=html" />
 </a>
