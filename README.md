@@ -1,12 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/simonegayedsaid/">
-<img align="left" alt="Facebook" width="22px" src="https://user-images.githubusercontent.com/49990979/111154623-b6e3c800-8593-11eb-999b-03f168737fac.png" />
+<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/49990979/111154903-0629f880-8594-11eb-97e3-da3349b1f1f3.png" />
 </a>
 <a href="https://www.facebook.com/simone.gayed/">
-<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<img align="left" alt="Facebook" width="22px" src="https://user-images.githubusercontent.com/49990979/111154944-1215ba80-8594-11eb-81da-18a143f00e12.png" />
 </a>
 <a href="https://www.instagram.com/simonegayed/">
-<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/49990979/111155000-248ff400-8594-11eb-9670-ab04a057bbd9.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=guyez.guyez)
