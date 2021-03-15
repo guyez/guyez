@@ -69,7 +69,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
  ```
  
 ## Other Stuff
-📝 [Resume]
    
 ![My github stats](https://github-readme-stats.vercel.app/api?username=guyez&show_icons=true&hide=[%22issues%22])
 
