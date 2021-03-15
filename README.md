@@ -23,7 +23,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 ## :computer: Technologies I Love
-<img align="right" alt="GIF" src="https://github.com/guyez/guyez/blob/5d6d48f2260e8cf3c14256d7ceb6ca1e43965aad/code.gif?raw=true"  width="500" height="400"/>
+<img align="right" alt="GIF" src="https://github.com/guyez/guyez/blob/5d6d48f2260e8cf3c14256d7ceb6ca1e43965aad/code.gif?raw=true"  width="500" height="350"/>
 
 * Artificial Intelligence
 * Machine Learning
