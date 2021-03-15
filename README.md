@@ -34,7 +34,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ## Programming Languages
 
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/49990979/111155429-bd267400-8594-11eb-9986-0c6913aa0a42.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/49990979/111155201-70429d80-8594-11eb-9d9c-d9ed9297dfc4.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/49990979/111155283-88b2b800-8594-11eb-9fb6-fd951868efa8.png"></code>
