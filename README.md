@@ -18,7 +18,8 @@ Hi, I'm currently an Artificial Intelligence student at [University of Bologna](
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<iframe src="https://giphy.com/embed/LmNwrBhejkK9EFP504" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://giphy.com/embed/LmNwrBhejkK9EFP504" width="480" height="480" class="giphy-embed" frameBorder="0"/>
+
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@guyez](https://www.linkedin.com/in/simonegayedsaid/);
