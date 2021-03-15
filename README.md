@@ -33,10 +33,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## Programming Languages
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img src="https://img.icons8.com/color/48/000000/python.png" />
+<code><img src="https://img.icons8.com/color/48/000000/c-programming.png" /><code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><code>
+<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><code>
+<code><img src="https://img.icons8.com/color/48/000000/python.png" /><code>
 
 
  ## Who am I?
