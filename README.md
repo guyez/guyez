@@ -28,7 +28,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 * Machine Learning
 * Computer Vision
 * Natural Language Processing
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guyez&layout=compact">
 
 
 ## Programming Languages
