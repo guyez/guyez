@@ -38,6 +38,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </code>
 <code> <img src="https://img.icons8.com/color/48/000000/python.png" /> </code>
 
+## 📊 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
  ## Who am I?
  ```python
@@ -62,12 +66,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 	
  ```
  
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 ## Other Stuff
 📝 [Resume]
    
