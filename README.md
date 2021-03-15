@@ -23,6 +23,12 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@guyez](https://www.linkedin.com/in/simonegayedsaid/);
 
+#### 👨 About me
+- 🌍 I like to write blog posts about my projects and findings at [alessiofalai.it](https://alessiofalai.it)
+- ⌨️ I like mechanical keyboards, a lot
+- 🌱 I love the **Open Source** community
+- 📸 In my free time I also enjoy travelling and taking pictures
+
 
 **Languages and Tools:**  
 
