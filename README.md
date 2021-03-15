@@ -61,6 +61,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Other Stuff
 📝 [Resume]
@@ -69,6 +72,5 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <a href="https://www.buymeacoffee.com/guyez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
