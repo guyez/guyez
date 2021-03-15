@@ -22,9 +22,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 📫 How to reach me: [@guyez](https://www.linkedin.com/in/simonegayedsaid/);
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
-
 ## :computer: Technologies I Love
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 * Artificial Intelligence
 * Machine Learning
 * Computer Vision
