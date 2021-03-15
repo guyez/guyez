@@ -61,13 +61,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 	
  ```
 
-📈 My GitHub Stats
-
-<a href="https://github.com/guyez/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyez&count_private=true&show_icons=true&line_height=33" alt="guyez's github stats" />
-</a>
-
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/guyez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
+## Other Stuff
+  - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
+  
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=guyez&show_icons=true&hide=[%22issues%22])
