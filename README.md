@@ -63,6 +63,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
  ```
  
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## Other Stuff
