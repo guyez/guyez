@@ -65,3 +65,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 📝 [Resume]
    
 ![My github stats](https://github-readme-stats.vercel.app/api?username=guyez&show_icons=true&hide=[%22issues%22])
+
+<a href="https://www.buymeacoffee.com/guyez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
