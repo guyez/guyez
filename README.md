@@ -5,6 +5,12 @@
 <a href="https://open.spotify.com/playlist/2SC7OsZrozfxmEQxZ2TDTl?si=Um_U5TV8Sn-VIjB5fMX8Qg">
   <img align="left" alt="My Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://www.facebook.com/simone.gayed/">
+  <img align="left" alt="My Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/simonegayed/">
+  <img align="left" alt="My Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=guyez.guyez)
 
