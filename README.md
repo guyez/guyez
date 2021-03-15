@@ -1,12 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/simonegayedsaid/">
-  <img align="left" alt="My LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+![image](https://user-images.githubusercontent.com/49990979/111153895-ce6e8100-8592-11eb-8659-12f592b814bc.png)
+" />
 </a>
 <a href="https://www.facebook.com/simone.gayed/">
-  <img align="left" alt="My Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+![image](https://user-images.githubusercontent.com/49990979/111153987-ec3be600-8592-11eb-931e-4d35ca129dbf.png)
+" />
 </a>
 <a href="https://www.instagram.com/simonegayed/">
-  <img align="left" alt="My Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+![image](https://user-images.githubusercontent.com/49990979/111153930-d9c1ac80-8592-11eb-85db-9c294fb971a2.png)
+" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=guyez.guyez)
