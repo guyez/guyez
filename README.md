@@ -15,7 +15,7 @@ Hi, I'm currently an Artificial Intelligence student at [University of Bologna](
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/guyez/guyez/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/guyez/guyez/blob/master/code.gif?raw=true" width="500" height="320"/>
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@guyez](https://www.linkedin.com/in/simonegayedsaid/);
