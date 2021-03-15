@@ -23,6 +23,12 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@guyez](https://www.linkedin.com/in/simonegayedsaid/);
 
+## :computer: Technologies I Love
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Natural Language Processing
+
 
 **Languages and Tools:**  
 
