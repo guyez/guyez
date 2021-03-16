@@ -42,6 +42,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
