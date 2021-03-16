@@ -21,6 +21,28 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@guyez](https://www.linkedin.com/in/simonegayedsaid/)
 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+	user = 'Simone Gayed Said'
+	current_edu = "University of Bologna"
+	hobbies = [
+			'Drawing',
+			'Watching Anime',
+			'Reading Sci-Fi Novels'
+			'Being up all Night chasing that ONE BUG...'
+		  ]
+
+	def getCity():
+		return Bologna_Italy()
+
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		ClimbEverest()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 ## :computer: Technologies I Love
 <img align="right" alt="GIF" src="https://media.giphy.com/media/9CffOPMLx0Hf2/giphy.gif"  width="450" height="250"/>
@@ -47,29 +69,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-
- ## Who am I?
- ```python
- class WhoAmI:
-	user = 'Simone Gayed Said'
-	current_edu = "University of Bologna"
-	hobbies = [
-			'Drawing',
-			'Watching Anime',
-			'Reading Sci-Fi Novels'
-			'Being up all Night chasing that ONE BUG...'
-		  ]
-
-	def getCity():
-		return Bologna_Italy()
-
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		ClimbEverest()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
  
 ## Other Stuff
    
