@@ -65,7 +65,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        46 hrs 24 mins  ████████████████████████░   95.86 % 
+Python       1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
 
