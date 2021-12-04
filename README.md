@@ -12,9 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=guyez.guyez)
 
 <br />
-
-
-Hi, I'm currently an Artificial Intelligence student at [University of Bologna](https://corsi.unibo.it/2cycle/artificial-intelligence). In short, I am reliable, hard-working with strong attention to detail and eager to learn about new technologies and business issues. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
